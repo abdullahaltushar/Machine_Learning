@@ -1,0 +1,17 @@
+company,job,degree,salary more than 100k
+BSRM,sales_excutive,bachelors,0
+BSRM,sales_excutive,masters,0
+BSRM,business_manager,bachelors,1
+BSRM,business_manager,masters,0
+BSRM,it,bachelors,1
+BSRM,it,masters,1
+AKS,sales_excutive,masters,0
+AKS,it,bachelors,0
+AKS,business_manager,bachelors,0
+AKS,business_manager,masters,1
+AKS,it,bachelors,0
+Salam,sales_excutive,bachelors,1
+Salam,sales_excutive,masters,1
+Salam,business_manager,bachelors,1
+Salam,business_manager,masters,1
+Salam,it,bachelors,1
